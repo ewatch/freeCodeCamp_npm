@@ -3,5 +3,8 @@
     "description": "A project that does something awesome",
     "keywords": ["node","express","http","freecodecamp"],
     "license": "MIT",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "dependencies": {
+        "moment": "2.14.0"
+    }
 }
