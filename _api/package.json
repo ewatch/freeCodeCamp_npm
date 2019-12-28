@@ -1,5 +1,6 @@
 {
     "author": "jmf",
     "description": "A project that does something awesome",
-    "keywords": ["node","express","http","freecodecamp"]
+    "keywords": ["node","express","http","freecodecamp"],
+    "license": "MIT"
 }
